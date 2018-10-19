@@ -1,4 +1,4 @@
-#Example genetic algorithm
+# Example genetic algorithm
 
 This was an academic activity for Universidad El bosque (Bogotá, Colombia).
 
